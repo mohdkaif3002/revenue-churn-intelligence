@@ -3,7 +3,7 @@
 **Which customers drive repeat revenue, which are about to churn, and what should the business do about it?**
 SQL (BigQuery) · Python (rule-based RFM) · Excel · Power BI, on real e-commerce data from the Google Merchandise Store.
 
-![Dashboard](screenshots/Dashboard%20Screenshot.png))
+![Dashboard](screenshots/Dashboard%20Screenshot.png)
 
 ## Result in 30 seconds
 
